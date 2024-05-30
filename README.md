@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<title>my first website</title>
 <meta charset="UTF-8">
 <meta name="description" content="This is my first website. It includes lots of information about my life."> 
 </head>
