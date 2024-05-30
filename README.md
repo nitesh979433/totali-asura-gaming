@@ -26,10 +26,10 @@
 <table> 
 <tr> 
 <td><img src="download.jfif" alt="this is a test image" height="50" width="50"> - <a href="https://www.instagram.com/heart.is.life__/">INSTAGRAM</a></td>
-<td>Row 1 - Column 2 </td>
+<td><img src="download (2).png" alt="this is a test image" height="50" widht="50">  - <a href="https://www.youtube.com/channel/UCr4EQ6Im-OrrmKmQeMjAlKQ/">YOUTUBE</a> </td>
 </tr>
 <tr>
-<td>Row 2 - Column 1</td>
+<td><img src="download.png" alt="this is a test image" height="50" widht="50" > - <a href="https://www.facebook.com/sarvan.kummar.16/">FACEBOOK</a> </td>
 <td>Row 2 - Column 2</td>
 </tr> 
 </table> 
