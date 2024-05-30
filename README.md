@@ -25,7 +25,7 @@
 
 <table> 
 <tr> 
-<td><img src="C:\Users\bs352\Desktop\image.jpg.jpg" alt="this is a test image" height="50" width="50"> - Column 1</td>
+<td><img src="download.jfif" alt="this is a test image" height="50" width="50"> - <a href="https://www.instagram.com/heart.is.life__/">INSTAGRAM</a></td>
 <td>Row 1 - Column 2 </td>
 </tr>
 <tr>
