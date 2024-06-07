@@ -1,41 +1,7 @@
-# These are supported funding model platforms
- 
-github:
-# Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon:
-# Replace with a single Patreon username
-open_collective: 
-# Replace with a single Open Collective username
-ko_fi: 
-# Replace with a single Ko-fi username
-tidelift: 
-# Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: 
-# Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay:
-# Replace with a single Liberapay username
-issuehunt:
-# Replace with a single IssueHunt username
-lfx_crowdfunding:
-# Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar:
-# Replace with a single Polar username
-buy_me_a_coffee:
-# Replace with a single Buy Me a Coffee username
-custom:
-# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
-<title>my first website</title>
+<title >my first website </title>
 <meta charset="UTF-8">
 <meta name="description" content="This is my first website. It includes lots of information about my life."> 
 </head>
@@ -60,7 +26,7 @@ p    {color: red;}
 <p>Welcome to <em>my</em> brand new website.</p>
 <p>This site will be my <strong>new</strong> home on the web.</p>
 <a href="/page2.html">Page2</a>
-<img src="C:\Users\bs352\Desktop\image.jpg.jpg" alt="This is a test image" height="100" width="100">
+<img src="FB_IMG_1714973947906.jpg" alt="This is a test image" height="100" width="100">
 <p>This website will have the following benefits for my business:</p>
 
 <ul>
