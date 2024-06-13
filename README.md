@@ -10,12 +10,12 @@
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
-p    {color: red;}
+p    {color: green;}
 </style>
 
 <h1 style="color:blue;">A Blue Heading</h1>
 
-<p style="color:red;">A red paragraph.</p>
+<p style="color:red;">A green paragraph.</p>
 
  
 <h1>Welcome to my webpage</h1> 
