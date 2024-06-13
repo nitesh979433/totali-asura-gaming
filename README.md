@@ -225,9 +225,8 @@ function init() {
     requestAnimationFrame(animate);
 }
 
-  </script>
-</body>
-</html>
+
+
 <head>
 <title>my first website </titel>
 <meta charset="UTF-8">
@@ -274,7 +273,11 @@ p    {color: green;}
 </tr> 
 
 </table> 
+</script>
+</style>
+
 </body> 
+
 </html>
 
 <css>
